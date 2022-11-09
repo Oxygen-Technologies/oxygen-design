@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='oxygen-design',
+    name='oxygen_design',
     version='0.0.1',
-    packages=['oxygen-design'],
+    packages=['oxygen_design'],
     package_dir={'': 'src'},
     url='https://github.com/Oxygen-Technologies/oxygen-design',
     license='MIT',

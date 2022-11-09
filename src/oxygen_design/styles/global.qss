@@ -1,0 +1,4 @@
+QWidget {
+    background-color: #fff;
+    font-family: 'sans-serif', 'Helvetica', 'Hiragino Sans GB', 'Microsoft Yahei', 'Arial';
+}
