@@ -1,7 +1,7 @@
-<div style="text-align: center;">
-<h1>🏳‍🌈 Oxygen Design</h1>
-
-🏳‍🌈 Oxygen Design is a style framework for PySide2 / PyQt5.
-
-![banner](/resources/banner.png)
-</div>
+<p align="center">
+  <b style="font-size: 32px">🏳‍🌈 Oxygen Design</b>
+  <br><br>
+  🏳‍🌈 Oxygen Design is a style framework for PySide2 / PyQt5.
+  <br><br>
+  <img src="./resources/banner.png" alt="banner">
+</p>
