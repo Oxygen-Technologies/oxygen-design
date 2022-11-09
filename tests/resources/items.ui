@@ -6,12 +6,12 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>698</width>
-    <height>395</height>
+    <width>487</width>
+    <height>198</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Form</string>
+   <string>Items</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
@@ -22,7 +22,18 @@
     </widget>
    </item>
    <item>
-    <widget class="QLineEdit" name="lineEdit"/>
+    <widget class="QLineEdit" name="lineEdit">
+     <property name="placeholderText">
+      <string>input text</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="lineEdit_2">
+     <property name="placeholderText">
+      <string>input text</string>
+     </property>
+    </widget>
    </item>
    <item>
     <widget class="QPushButton" name="pushButton_4">
@@ -47,8 +58,14 @@
    </item>
    <item>
     <widget class="QPushButton" name="pushButton_2">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
      <property name="text">
-      <string>PushButton</string>
+      <string>Exit</string>
+     </property>
+     <property name="checkable">
+      <bool>false</bool>
      </property>
     </widget>
    </item>

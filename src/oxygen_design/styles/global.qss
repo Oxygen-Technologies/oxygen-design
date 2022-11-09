@@ -1,4 +1,5 @@
 QWidget {
     background-color: #fff;
-    font-family: 'sans-serif', 'Helvetica', 'Hiragino Sans GB', 'Microsoft Yahei', 'Arial';
+    font-family: 'Microsoft Yahei', 'Arial', 'sans-serif', 'Segoe UI Emoji', 'Helvetica', 'Hiragino Sans GB';
+    font-size: 14px;
 }

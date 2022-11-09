@@ -46,7 +46,8 @@ class OxygenDesign:
         styles = []
         basic_styles = [
             'global',
-            'button-primary'
+            'button-primary',
+            'line-edit',
         ]
 
         for style_name in basic_styles:
